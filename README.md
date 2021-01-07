@@ -6,7 +6,7 @@
 - Clone the repository
 - In your python environment ensure that you have installed the nltk and sklearn packages, these can be installed with the following commands:
  ``` python3 -m pip install nltk ``` and ```python3 -m pip install scikit-learn==0.20 ``` (version 0.20 only needed on lab machines with python 3.5)
-- Navigate to the code folder of the repository (```assignment-4---pos-tagging-HonestPretzels\code``` on github)
+- Navigate to the code folder of the repository (```yasharkor/POStagging-HMM-Brilltagger\code``` on github)
 - from the terminal execute the following command: ``` python3 .\pos_tag.py --tagger [tagger mode] --test [path to test file] --output [path to output file] --train [path to training file] ```
 - The arguments can be entered in any order
 - The **[path to test file]** argument is the relative path to the file you wish to POS tag
